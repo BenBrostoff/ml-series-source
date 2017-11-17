@@ -9,4 +9,5 @@ This repository contains source code for all posts in my machine learning blog s
 
 I used a number of excellent blog posts in writing this series.
 
-- [Simple neural network](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
+- [Andrew Trask simple NN](http://iamtrask.github.io/2015/07/12/basic-python-network/)
+- [Milo Spencer-Harper simple NN](https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1)
